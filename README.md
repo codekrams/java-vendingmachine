@@ -1,1 +1,2 @@
 # java-vendingmachine
+Programmieren Sie einen textbasierten Getränkeautomaten. Der Nutzer erhält zu Programmstart eine Aufforderung den Automaten zu füllen. Dazu muss der Nutzer Getränkesorten und zugehörige Preise eingeben können. Ist der Automat befüllt, wechselt der Automat in den Betriebsmodus und zeigt ein Auswahlmenü mit Getränkesorten und den Preisen an, die über eine Zahleneingabe ausgewählt werden können. Anschließend muss der Benutzer solange  Geldbeträge eingeben können, bis der Betrag ausreicht. Das Getränk und das entsprechende Wechselgeld werden ausgegeben.
